@@ -2,12 +2,6 @@
 
 ## Web Programming.
 
-+ [HTML](pro01.md)
-+ [CSS](pro02.md)
-+ [Materialize](pro03.md)
-
-
-## Cloud Server.
-
-+ [Linux1](pro04.md)
-+ [Linux2](pro05.md)
++ [HTML](01_html.md)
++ [CSS](02_css.md)
++ [Materialize](03_mate.md)
